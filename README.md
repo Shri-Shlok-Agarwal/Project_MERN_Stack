@@ -84,12 +84,13 @@ npm install
 
 
 *Set Up Environment Variables*
-
+-
 Create a new file named .env.local in the root of your project and add the following content:
 
+```bash
 env
-NEXT_PUBLIC_LIVEBLOCKS_PUBLIC_KEY=
-
+NEXT_PUBLIC_LIVEBLOCKS_PUBLIC_KEY = 
+```
 
 Replace the placeholder values with your actual Liveblocks credentials. You can obtain these credentials by signing up on the [Liveblocks website](https://liveblocks.io).
 
@@ -98,7 +99,7 @@ Replace the placeholder values with your actual Liveblocks credentials. You can 
 bash
 npm run dev
 
-![Run_in_Terminal](https://github.com/Shri-Shlok-Agarwal/MernStack_Project/assets/139161753/2e1df582-9890-447f-b871-ae682e426feb)
+![Run_in_Terminal](https://github.com/Shri-Shlok-Agarwal/Project_MERN_Stack/assets/139161753/d552159d-64b3-4ad3-97ff-1f3c2ef3d84f)
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
@@ -206,11 +207,12 @@ css
 
 *Loading Page*
 -
-![Screenshot_1](https://github.com/Shri-Shlok-Agarwal/MernStack_Project/assets/139161753/0827bd75-723c-451b-b0c5-5db88dedd12a)
+![Screenshot_1](https://github.com/Shri-Shlok-Agarwal/Project_MERN_Stack/assets/139161753/deb3fbb2-933d-4236-b71f-91f3c0040f52)
 
 *Home Page*
 -
-![Screenshot_2](https://github.com/Shri-Shlok-Agarwal/MernStack_Project/assets/139161753/d5dd3875-bf23-4aa2-9164-54485bc471b3)
+![Screenshot_2](https://github.com/Shri-Shlok-Agarwal/Project_MERN_Stack/assets/139161753/4a4bd478-6f68-407a-a0c0-d95141ea5245)
+
 
 ## <a name="video"> 🎥 Video:</a>
 
