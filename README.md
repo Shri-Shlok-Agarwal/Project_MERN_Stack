@@ -209,10 +209,6 @@ css
 
 ## <a name="screenshots"> 🖼️ Screenshots:</a>
 
-*Loading Page*
--
-![Screenshot_1](https://github.com/Shri-Shlok-Agarwal/Project_MERN_Stack/assets/139161753/deb3fbb2-933d-4236-b71f-91f3c0040f52)
-
 *Home Page*
 -
 ![Screenshot_2](https://github.com/Shri-Shlok-Agarwal/Project_MERN_Stack/assets/139161753/4a4bd478-6f68-407a-a0c0-d95141ea5245)
