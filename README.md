@@ -17,15 +17,13 @@
 
 ## <a name="authors"> 🗽 Authors:</a>
 
-*1. Chanchal Rajput*
-- Roll no.-22015002561
-- Sec: C
-- Batch: 2 (Second)
+*1. Nivedita Dixit*
+- Roll no.-22015002719
+- BCA (2022 - 25)
 
 *1. Shlok Agarwal*
 - Roll no.-22015002871
-- Sec: G
-- Batch: 2 (Second)
+- BCA (2022 - 25)
 
 
 ## <a name="introduction">🤖 Introduction</a>
